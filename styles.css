@@ -2,6 +2,7 @@
 :root {
     --primary-color:#438A5E;
     --dark-gray:#6B7280;
+    --off-white:#FAF2DA ;
 }
 
 body{
@@ -24,7 +25,7 @@ hr{
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
-
+FDFAF6
 .link-primary{
     background-color:var(--primary-color);
     border-radius: 0.5rem;
@@ -77,4 +78,15 @@ margin: auto;
 .hero .hero-heading {
     padding: 1rem;
     color:var(--dark-gray);
+}
+
+/**sections**/
+.section{
+    padding: 2rem;
+}
+.section h1{
+    text-align: center; 
+}
+.ow{
+    background-color:var(--off-white);
 }
