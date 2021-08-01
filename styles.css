@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
 :root {
-    --primary-color:#438A5E
+    --primary-color:#438A5E;
+    --dark-gray:#6B7280;
 }
 
 body{
@@ -64,4 +65,16 @@ color: white;
 .navigation .link-active {
     font-weight: bold;
     background-color: palegreen;
+}
+.hero {
+    padding: 2rem;
+}
+.hero .hero-img {
+max-width: 350px;
+display: block;
+margin: auto;
+}
+.hero .hero-heading {
+    padding: 1rem;
+    color:var(--dark-gray);
 }
