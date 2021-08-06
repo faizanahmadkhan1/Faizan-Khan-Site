@@ -81,8 +81,7 @@ hr{
 color: white;
 }
 .navigation .link-active {
-    font-weight: bolder;
-    background-color: #A7D129;
+    font-weight:bold;
 }
 .hero {
     padding: 2rem;
