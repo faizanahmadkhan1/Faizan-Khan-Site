@@ -96,8 +96,8 @@ hr {
 }
 
 .navigation .link-active {
-    font-weight: bold;
-    background-color: chartreuse;
+    font-weight: bolder;
+    background-color: yellowgreen;
 }
 
 /** header **/
